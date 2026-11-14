@@ -24,12 +24,16 @@ Welcome to my GitHub profile! I'm an ICT Level 5 student passionate about softwa
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Emmanuel322-a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2335" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel322-a&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f2335" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Emmanuel322-a&theme=tokyonight&hide_border=true&background=1F2335" alt="GitHub Streak" />
 </p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Emmanuel322-a&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 
 ---
 
